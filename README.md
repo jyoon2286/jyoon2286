@@ -15,7 +15,6 @@ My name is Jaehyun Yoon, but I go by Jae(J) Yoon.
 - 🌱 I’m currently learning data science and machine learning 
 - 💬 Ask me about the puppy in my profile picture
 - 📫 How to reach me: jyoon2286@gmail.com
-- 😄 Pronouns: J-hyun(like Hyun-dai) Yoon
 
 
 ![](https://komarev.com/ghpvc/?username=jyoon2286&color=brightgreen)
