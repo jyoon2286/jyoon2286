@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 😷 I hope you, your family and friends are doing well during this pandemic. <br>
+- Wecolme to my Github! 
+- 😷 I hope you, your family and friends are doing well. <br>
 My name is Jaehyun Yoon, but I go by Jae(J) Yoon. 
 - 🔭 I’m currently working on Master's degree in Machine Learning
 - 🌱 I’m currently learning data science and machine learning 
