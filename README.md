@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 - Wecolme to my Github! 
-- 😷 I hope you, your family and friends are doing well. <br>
+- 😃 I hope you, your family and friends are doing well. <br>
 - My name is Jaehyun Yoon, but I go by Jae(J) Yoon. 
 - 🔭 I’m currently working on my Master's degree in Machine Learning
 - 🌱 I’m currently learning data science and machine learning 
