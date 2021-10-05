@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Master's degree in Machine Learning
 - 🌱 I’m currently learning data science and machine learning 
 - 📫 How to reach me: jyoon2286@gmail.com
-
+- My Linkedin address is https://www.linkedin.com/in/jae-yoon/
 
 ![](https://komarev.com/ghpvc/?username=jyoon2286&color=brightgreen)
