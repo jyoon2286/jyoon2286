@@ -10,11 +10,9 @@ Here are some ideas to get you started:
 
 -->
 - Wecolme to my Github! 
-- 😃 I hope you, your family and friends are doing well. <br>
-- My name is Jaehyun Yoon, but I go by Jae(J) Yoon. 
-- 🔭 I’m currently working on my Master's degree in Machine Learning
-- 🌱 I’m currently learning data science and machine learning 
-- 📫 How to reach me: jyoon2286@gmail.com
+- 😃 My name is Jae(Jaehyun) Yoon. 
+- 🌱 Background in statistics, Data science, and Machine learning 
+- 📫 How to reach out to me: jyoon2286@gmail.com
 - My Linkedin address is https://www.linkedin.com/in/jae-yoon/ for networking
 
 ![](https://komarev.com/ghpvc/?username=jyoon2286&color=brightgreen)
