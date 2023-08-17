@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 - Wecolme to my Github! 
 - 😃 My name is Jae(Jaehyun) Yoon. 
-- 🌱 Background in statistics, Data science, and Machine learning 
+- 🌱 Background in statistics, Data Science, and Machine learning 
 - 📫 How to reach out to me: jyoon2286@gmail.com
-- My Linkedin address is https://www.linkedin.com/in/jae-yoon/ for networking
+- You are more than welcome to connect with me on LinkedIn. My LinkedIn address is https://www.linkedin.com/in/jae-yoon/ 
 
 ![](https://komarev.com/ghpvc/?username=jyoon2286&color=brightgreen)
